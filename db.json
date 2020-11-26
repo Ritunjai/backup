@@ -90,6 +90,6 @@
       "Subclient": "default",
       "Type": "Full",
       "Ref Coloumn": "ADNOC_M73_HANA_198.18.15.58_60|SAP HANA|M73|SYSTEMDB|default|Full"
-    },
+    }
   ]
 }
