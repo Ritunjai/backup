@@ -1,0 +1,95 @@
+{
+  "BACKUP_SUCCESS":
+  [
+      {
+      "Client": "ADNOC_M11_HANA_10.249.1.76_90",
+      "Agent Type": "SAP HANA",
+      "Instance": "M11",
+      "Backup Set": "SYSTEMDB",
+      "Subclient": "default",
+      "Type": "Full",
+      "Ref Coloumn": "ADNOC_M11_HANA_10.249.1.76_90|SAP HANA|M11|SYSTEMDB|default|Full"
+    },
+    {
+      "Client": "ADNOC_M11_HANA_10.249.1.76_90",
+      "Agent Type": "SAP HANA",
+      "Instance": "M11",
+      "Backup Set": "S12",
+      "Subclient": "default",
+      "Type": "Full",
+      "Ref Coloumn": "ADNOC_M11_HANA_10.249.1.76_90|SAP HANA|M11|S12|default|Full"
+    },
+    {
+      "Client": "ADNOC_M11_HANA_10.249.1.76_90",
+      "Agent Type": "SAP HANA",
+      "Instance": "M11",
+      "Backup Set": "S11",
+      "Subclient": "default",
+      "Type": "Full",
+      "Ref Coloumn": "ADNOC_M11_HANA_10.249.1.76_90|SAP HANA|M11|S11|default|Full"
+    },
+    {
+      "Client": "ADNOC_M11_HANA_198.18.9.150",
+      "Agent Type": "SAP HANA",
+      "Instance": "M11",
+      "Backup Set": "H11",
+      "Subclient": "default",
+      "Type": "Full",
+      "Ref Coloumn": "ADNOC_M11_HANA_198.18.9.150|SAP HANA|M11|H11|default|Full"
+    },
+    {
+      "Client": "ADNOC_M11_HANA_198.18.9.150",
+      "Agent Type": "SAP HANA",
+      "Instance": "M11",
+      "Backup Set": "SYSTEMDB",
+      "Subclient": "default",
+      "Type": "Full",
+      "Ref Coloumn": "ADNOC_M11_HANA_198.18.9.150|SAP HANA|M11|SYSTEMDB|default|Full"
+    },
+    {
+      "Client": "ADNOC_M71_HANA_198.18.15.174_175",
+      "Agent Type": "SAP HANA",
+      "Instance": "M71",
+      "Backup Set": "SYSTEMDB",
+      "Subclient": "default",
+      "Type": "Full",
+      "Ref Coloumn": "ADNOC_M71_HANA_198.18.15.174_175|SAP HANA|M71|SYSTEMDB|default|Full"
+    },
+    {
+      "Client": "ADNOC_M71_HANA_198.18.15.174_175",
+      "Agent Type": "SAP HANA",
+      "Instance": "M71",
+      "Backup Set": "T71",
+      "Subclient": "default",
+      "Type": "Full",
+      "Ref Coloumn": "ADNOC_M71_HANA_198.18.15.174_175|SAP HANA|M71|T71|default|Full"
+    },
+    {
+      "Client": "ADNOC_M72_HANA_198.18.15.205_206",
+      "Agent Type": "SAP HANA",
+      "Instance": "M72",
+      "Backup Set": "SYSTEMDB",
+      "Subclient": "default",
+      "Type": "Full",
+      "Ref Coloumn": "ADNOC_M72_HANA_198.18.15.205_206|SAP HANA|M72|SYSTEMDB|default|Full"
+    },
+    {
+      "Client": "ADNOC_M72_HANA_198.18.15.205_206",
+      "Agent Type": "SAP HANA",
+      "Instance": "M72",
+      "Backup Set": "T72",
+      "Subclient": "default",
+      "Type": "Full",
+      "Ref Coloumn": "ADNOC_M72_HANA_198.18.15.205_206|SAP HANA|M72|T72|default|Full"
+    },
+    {
+      "Client": "ADNOC_M73_HANA_198.18.15.58_60",
+      "Agent Type": "SAP HANA",
+      "Instance": "M73",
+      "Backup Set": "SYSTEMDB",
+      "Subclient": "default",
+      "Type": "Full",
+      "Ref Coloumn": "ADNOC_M73_HANA_198.18.15.58_60|SAP HANA|M73|SYSTEMDB|default|Full"
+    },
+  ]
+}
